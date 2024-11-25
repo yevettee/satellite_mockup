@@ -9,3 +9,4 @@
 4. OpenRB-150
 5. Dynamixel
 ![내부_설계도](https://github.com/user-attachments/assets/e62aabd5-482f-4070-90a7-057c758c23be)
+![image](https://github.com/user-attachments/assets/e77ff18e-bb7f-4f54-ad18-e93299ad4969)
